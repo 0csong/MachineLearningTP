@@ -26,7 +26,7 @@
 
 ## 공모전 참여
 <img src="https://user-images.githubusercontent.com/71435571/141255403-1ae5f195-3cc9-4fd4-93bb-a879727d5686.jpg" width="400">
-**우수상 수상
+### 우수상 수상
 <img src="https://swai.smu.ac.kr/data/editor/2112/thumb-682c23621aa4fefc058b097997179d0f_1639122631_0768_1000x1691.png" width="400">
 
 ## 서비스 기능 소개📃
