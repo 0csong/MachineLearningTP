@@ -12,7 +12,7 @@
 |[송영도](https://github.com/0csong)|팀장|
 |[김동욱](https://github.com/DongwookKim0823)|팀원|
 |[박영제](https://github.com/parky-j)|팀원|
-|[김예진](https://github.com/YaejinK)|팀원|
+|[김예진](https://github.com/ggjiny)|팀원|
 
 ## 프로젝트 설명💬
 - 폐 x-ray를 CNN을 이용해 폐렴, 코로나, 정상 판별하고 판별한 이유가 되는 부분 표시
